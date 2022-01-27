@@ -3,9 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/drawable/ic_back.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/drawable/ic_transfer.xml" value="0.1638888888888889" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/font/poppinsmedium.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_scanner.xml" value="0.34375" />
-        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_splashscreen.xml" value="0.15" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_nomor_rekening.xml" value="0.5" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_scanner.xml" value="0.18" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_security_code.xml" value="0.33" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/menu/bottomnav.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android_Project/Epay2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
